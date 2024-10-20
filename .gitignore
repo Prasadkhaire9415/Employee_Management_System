@@ -1,0 +1,20 @@
+# Ignore Visual Studio-related files
+.vs/
+*.user
+*.suo
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore solution files if not needed
+*.sln
+
+# Ignore other directories
+InventoryManagementSystem1/
+# Ignore database files
+*.mdf
+*.ldf
+
+# Ignore everything in the App_Data folder
+InventoryManagementSystem1/App_Data/
